@@ -1,4 +1,6 @@
-# This website is a test about the website basics
+# website docs
 
-Technologies used to make this website: {HTML5}
- 
+Technologies used in this project:
+* ![HTML5]
+* ![CSS]
+and various other minor libraries.
