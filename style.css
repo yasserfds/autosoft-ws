@@ -5,7 +5,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    scroll-behavior: smooth; 
+    scroll-behavior: smooth;
 }
 
 
@@ -101,6 +101,20 @@ section {
     color: #fff;
     font-size: 1.8em;
     padding-left: 25px;
+}
+
+.about h3 {
+    color: #000;
+    font-size: 1.5em;
+    font-weight: 700;
+    letter-spacing: 1px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.about a {
+    color: #0a49f6;
+    text-decoration: none;
 }
 
 .title {
@@ -240,6 +254,10 @@ section {
 .footer .social-icons a {
     font-size: 1.3em;
     padding: 0 12px 0 0;
+}
+
+.footer .social-icons a:hover {
+    color: #4e9eff;
 }
 
 @media (max-width:1023px) {
