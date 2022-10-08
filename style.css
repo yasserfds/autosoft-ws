@@ -103,6 +103,10 @@ section {
     padding-left: 25px;
 }
 
+.social-icons a:hover {
+    color: #4e9eff;
+}
+
 .about h3 {
     color: #000;
     font-size: 1.5em;
@@ -162,6 +166,14 @@ section {
     font-size: 1.2em;
     font-weight: 700;
     margin: 10px;
+}
+
+.info a {
+    color: #0a49f6;
+}
+
+.info a:hover {
+    color: #4e9eff;
 }
 
 .projects {
